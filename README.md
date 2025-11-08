@@ -1,8 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="data-flow-pipeline.svg" width="800" alt="Data Pipeline Animation">
-</p>
-
 # 👋 Hi, I'm Pravin Gondkar  
 
 🚀 **Data Engineer | Azure | PySpark | SQL | Databricks**  
@@ -49,24 +44,10 @@ My passion lies in optimizing data flows, ensuring reliability, and delivering c
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pravin-gondkar&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-gondkar&theme=tokyonight" height="150" />
-</p>
-
----
-
 ### 💬 Let’s Connect
 📫 **Email:** pravin@example.com  
 💼 **LinkedIn:** [linkedin.com/in/pravin-gondkar](#)  
 🧑‍💻 **Portfolio:** [github.com/pravin-gondkar](#)
-
----
-
-<p align="center">
-  <img src="data_flow_pipeline.svg" width="800" alt="Data Flow Animation"/>
-</p>
 
 
 ⭐ *“Data is only valuable when it flows correctly — I build systems to make that happen.”*
